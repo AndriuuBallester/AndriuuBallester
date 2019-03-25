@@ -1,0 +1,56 @@
+
+
+
+
+.ul {
+  background: #3399ff;
+  padding: 20px;
+}
+.ul li {
+  background: #cce5ff;
+  margin: 5px;
+}
+.container3{ 
+    
+    justify-content: center;
+	text-align:center
+    
+}
+
+
+    
+.caja1{
+	
+	background:none;
+	border:none;
+	position:absolute;
+	top:30%;
+	height: 40%;
+    width: 50%;
+	
+	
+}
+
+#auxiliar{
+	height:5%;
+	width:100%;
+}
+
+
+
+
+
+
+ .itemimage{
+	 margin-left:600px; 
+	margin-top:12%;
+ 
+	width:60%;
+	height:30%;
+	
+	
+}
+.video1{
+	position:absolute;
+	
+}
